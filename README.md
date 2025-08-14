@@ -1,6 +1,6 @@
 # 💰 Income & Expense Tracker
 
-A simple full-stack **Income & Expense Tracker** built with **Node.js, Express, MySQL (or MongoDB)** on the backend and **React + Chart.js** on the frontend.  
+A simple full-stack **Income & Expense Tracker** built with **Node.js, Express, MongoDB** on the backend and **React + Chart.js** on the frontend.  
 It allows users to **track their income, expenses, trends, and category-wise spending** with interactive charts.
 
 ---
