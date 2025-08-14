@@ -8,6 +8,10 @@ This is a scaffolded Express.js backend for a Personal Finance Tracker applicati
 - Rate limiting middleware
 - Basic input sanitization and security middleware suggestions
 
+## Create an .env
+MONGO_URI=
+JWT_SECRET=
+
 ## Quick start
 1. `npm install`
 2. `npm run dev` (requires nodemon) or `npm start`
