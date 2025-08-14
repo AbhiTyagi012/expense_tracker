@@ -5,7 +5,6 @@ This is a scaffolded Express.js backend for a Personal Finance Tracker applicati
 - User auth (JWT) with roles: admin, user, read-only
 - Transactions CRUD
 - Category model
-- Analytics endpoints with Redis caching
 - Rate limiting middleware
 - Basic input sanitization and security middleware suggestions
 
